@@ -1,0 +1,4 @@
+baseURL = 'https://carpuplay.github.io/'
+languageCode = 'en-us'
+title = 'Digitand'
+theme = 'ananke'
